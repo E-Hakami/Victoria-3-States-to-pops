@@ -1,0 +1,2662 @@
+{
+    "STATE_SVEALAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_GOTALAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_SCANIA": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_NORRLAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_GOTLAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_JUTLAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_ZEALAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_WESTERN_NORWAY": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_NORTHERN_NORWAY": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_EASTERN_NORWAY": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_ICELAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_GREENLAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_HOME_COUNTIES": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_LANCASHIRE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_WALES": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_YORKSHIRE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_HIGHLANDS": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_MIDLANDS": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_EAST_ANGLIA": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_WEST_COUNTRY": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_LOWLANDS": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_ULSTER": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_MUNSTER": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_LEINSTER": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_CONNAUGHT": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_ILE_DE_FRANCE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_PROVENCE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_NORMANDY": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_LANGUEDOC": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_RHONE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_FRENCH_LOW_COUNTRIES": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_PICARDY": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_ALSACE_LORRAINE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_POITOU": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_GUYENNE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_AUVERGNE_LIMOUSIN": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_BRITTANY": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_BURGUNDY": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_MAINE_ANJOU": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_CHAMPAGNE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_FRANCHE_COMTE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_LORRAINE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_AQUITAINE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_ORLEANS": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_HOLLAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_FRIESLAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_GELRE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_WALLONIA": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_FLANDERS": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_AUSTRIA": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_BOHEMIA": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_MORAVIA": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_STYRIA": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_TYROL": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_SOUTH_TYROL": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_POMERANIA": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_ELBE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_EAST_SWITZERLAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_WEST_SWITZERLAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_WESTPHALIA": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_ANHALT": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_RHINELAND": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_NORTH_RHINE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_RUHR": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_BRANDENBURG": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_SCHLESWIG_HOLSTEIN": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_WURTTEMBERG": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_BADEN": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_HANNOVER": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_BRUNSWICK": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_BAVARIA": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_FRANCONIA": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_SAXONY": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_HESSE": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_MECKLENBURG": {
+        "pops": "00_west_europe.txt",
+        "buildings": "00_west_europe.txt"
+    },
+    "STATE_LOMBARDY": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_PIEDMONT": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_SARDINIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_MALTA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_UMBRIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_CORSICA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_CAMPANIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_CALABRIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_APULIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_ABRUZZO": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_SAVOY": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_EMILIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_TUSCANY": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_ROMAGNA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_LAZIO": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_VENETIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_SICILY": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_TOLEDO": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_GALICIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_ASTURIAS": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_CASTILE": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_NAVARRA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_ARAGON": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_CATALONIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_BALEARES": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_ANDALUSIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_GRANADA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_BADAJOZ": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_VALENCIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_BEIRA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_ESTREMADURA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_ALENTEJO": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_CAPE_VERDE": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_MADEIRA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_CANARY_ISLANDS": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_AZORES": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_EASTERN_THRACE": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_DOBRUDJA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_ALBANIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_BOSNIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_NORTHERN_THRACE": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_BULGARIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_SLOVENIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_DALMATIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_CROATIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_SLAVONIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_ISTRIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_MONTENEGRO": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_NORTHERN_SERBIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_SOUTHERN_SERBIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_CRETE": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_WEST_AEGEAN_ISLANDS": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_EAST_AEGEAN_ISLANDS": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_ATTICA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_THESSALIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_SKOPIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_MACEDONIA": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_WESTERN_THRACE": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_IONIAN_ISLANDS": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_PELOPONNESE": {
+        "pops": "01_south_europe.txt",
+        "buildings": "01_south_europe.txt"
+    },
+    "STATE_INGRIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_MOSCOW": {
+        "pops": "02_east_europe.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_ORYOL": {
+        "pops": "02_east_europe.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_SMOLENSK": {
+        "pops": "02_east_europe.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_TVER": {
+        "pops": "02_east_europe.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_KURSK": {
+        "pops": "02_east_europe.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_NOVGOROD": {
+        "pops": "02_east_europe.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_ROSTOV": {
+        "pops": "02_east_europe.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_PERM": {
+        "pops": "02_east_europe.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_SILESIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_WEST_PRUSSIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_EAST_PRUSSIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_POSEN": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_WEST_GALICIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_EAST_GALICIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_CENTRAL_HUNGARY": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_BEKES": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_TRANSDANUBIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_DELVIDEK": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_BANAT": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_WEST_SLOVAKIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_EAST_SLOVAKIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_SOUTHERN_TRANSYLVANIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_NORTHERN_TRANSYLVANIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_MOLDAVIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_WALLACHIA": {
+        "pops": "02_east_europe.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_LOWER_EGYPT": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_UPPER_EGYPT": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_MIDDLE_EGYPT": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_EGYPTIAN_DESERT": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_MATRUH": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_SINAI": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_ERITREA": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_DONGOLA": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_KORDOFAN": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_DARFUR": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_BLUE_NILE": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_MARRAKECH": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_FEZ": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_AL_RIF": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_INNER_MOROCCO": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_ALGIERS": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_CONSTANTINE": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_ORAN": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_TUNISIA": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_TRIPOLI": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_LIBYA": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_LIBYAN_DESERT": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_SAHARA": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_EAST_SAHARA": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_WEST_SAHARA": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_MAURITANIA": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_INNER_MAURITANIA": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_EASTERN_MALI": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_WESTERN_MALI": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_TIMBUKTU": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_NIGER": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_CHAD": {
+        "pops": "03_north_africa.txt",
+        "buildings": "03_north_africa.txt"
+    },
+    "STATE_IVORY_COAST": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_WINDWARD_COAST": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_SENEGAL": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_GAMBIA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_SIERRA_LEONE": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_VOLTA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_LIBERIA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_HAUSALAND": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_BENIN": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_YORUBA_STATES": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_NIGER_DELTA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_OUTER_HAUSALAND": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_BORNU": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_NIGERIA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_EAST_HAUSALAND": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_GUINEA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_GHANA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_TOGO": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_DAHOMEY": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_LINDI": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_ZANZIBAR": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_TANGANYIKA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_KENYA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_RIFT_VALLEY": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_OROMIA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_AMHARA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_GONDER": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_KAZEMBE": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_SOMALILAND": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_SOUTH_MADAGASCAR": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_NORTH_MADAGASCAR": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_UGANDA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_EQUATORIA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_MOCAMBIQUE": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_WADDAI": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_NORTH_CAMEROON": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_SOUTH_CAMEROON": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_UBANGI_SHARI": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_CONGO": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_CONGO_ORIENTALE": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_KASAI": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_BAS_CONGO": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_EQUATEUR": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_NORTH_ANGOLA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_SOUTH_ANGOLA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_EAST_ANGOLA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_KATANGA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_GABON": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_ZAMBIA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_ZAMBEZIA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_ZAMBEZI": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_NAMAQUALAND": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_HEREROLAND": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_ZULULAND": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_VRYSTAAT": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_TRANSVAAL": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_EASTERN_CAPE": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_CAPE_COLONY": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_NORTHERN_CAPE": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_BOTSWANA": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_LOURENCO_MARQUES": {
+        "pops": "04_subsaharan_africa.txt",
+        "buildings": "04_subsaharan_africa.txt"
+    },
+    "STATE_DISTRICT_OF_COLUMBIA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_LOUISIANA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_NEW_YORK": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_VIRGINIA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_ALASKA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_WASHINGTON": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_OREGON": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_IDAHO": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_COLORADO": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_WYOMING": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_MONTANA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_NORTH_DAKOTA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_SOUTH_DAKOTA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_NEBRASKA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_KANSAS": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_OKLAHOMA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_ARKANSAS": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_MISSOURI": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_IOWA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_MINNESOTA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_WISCONSIN": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_INDIANA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_MICHIGAN": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_OHIO": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_KENTUCKY": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_TENNESSEE": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_MISSISSIPPI": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_ALABAMA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_FLORIDA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_GEORGIA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_WEST_VIRGINIA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_MARYLAND": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_DELAWARE": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_PENNSYLVANIA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_NEW_JERSEY": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_ILLINOIS": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_RHODE_ISLAND": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_CONNECTICUT": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_MASSACHUSETTS": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_NEW_HAMPSHIRE": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_VERMONT": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_MAINE": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_NORTH_CAROLINA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_UTAH": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_SOUTH_CAROLINA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_HAWAIIAN_ISLANDS": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_ONTARIO": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_NEW_BRUNSWICK": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_QUEBEC": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_NEWFOUNDLAND": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_ALBERTA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_BRITISH_COLUMBIA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_SASKATCHEWAN": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_MANITOBA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_YUKON_TERRITORY": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_NORTHWEST_TERRITORIES": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_NUNAVUT": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_BERMUDA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_TEXAS": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_NEVADA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_ARIZONA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_NEW_MEXICO": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_CALIFORNIA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_SONORA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_CHIHUAHUA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_RIO_GRANDE": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_VERACRUZ": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_DURANGO": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_SINALOA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_BAJIO": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_YUCATAN": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_MEXICO": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_GUERRERO": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_OAXACA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_JALISCO": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_ZACATECAS": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_CHIAPAS": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_BAJA_CALIFORNIA": {
+        "pops": "05_north_america.txt",
+        "buildings": "05_north_america.txt"
+    },
+    "STATE_SAN_SALVADOR": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_GUATEMALA": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_HONDURAS": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_NICARAGUA": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_COSTA_RICA": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_PANAMA": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_HAITI": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_SANTO_DOMINGO": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_PUERTO_RICO": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_BAHAMAS": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_WEST_INDIES": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_JAMAICA": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_CUBA": {
+        "pops": "06_central_america.txt",
+        "buildings": "06_central_america.txt"
+    },
+    "STATE_ECUADOR": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_GUAYANA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_ZULIA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_MIRANDA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_BOLIVAR": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_ANTIOQUIA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_GUAVIARE": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_CUNDINAMARCA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_CAUCA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_PASTAZA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_TARAPACA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_ANTOFAGASTA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_SANTA_CRUZ": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_LA_PAZ": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_POTOSI": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_CAJAMARCA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_LIMA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_ICA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_AREQUIPA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_URUGUAY": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_JUJUY": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_ALTO_PARAGUAY": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_BAJO_PARAGUAY": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_BUENOS_AIRES": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_PATAGONIA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_RIO_NEGRO": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_LA_PAMPA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_SANTA_FE": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_CORRIENTES": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_TUCUMAN": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_CHACO": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_SANTIAGO": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_LOS_RIOS": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_ARAUCANIA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_SOUTH_ATLANTIC_ISLANDS": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_ACRE": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_AMAZONAS": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_MATO_GROSSO": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_RIO_GRANDE_DO_SUL": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_PARANA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_SANTA_CATARINA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_SAO_PAULO": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_MINAS_GERAIS": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_RIO_DE_JANEIRO": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_BAHIA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_RIO_GRANDE_DO_NORTE": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_CEARA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_PIAUI": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_PERNAMBUCO": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_PARAIBA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_MARANHAO": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_GOIAS": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_PARA": {
+        "pops": "07_south_america.txt",
+        "buildings": "07_south_america.txt"
+    },
+    "STATE_NEJD": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_OMAN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_ABU_DHABI": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_YEMEN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_HEDJAZ": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_HAIL": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_CYPRUS": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_TRANSJORDAN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_PALESTINE": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_LEBANON": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_SYRIA": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_ALEPPO": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_BAGHDAD": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_MOSUL": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_DEIR_EZ_ZOR": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_BASRA": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_FARS": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_LARISTAN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_SISTAN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_KHORASAN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_KHUZESTAN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_ISFAHAN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_MAZANDARAN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_IRAKAJEMI": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_SEMNAN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_TABRIZ": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_KERMAN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_URMIA": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_PERSIAN_KURDISTAN": {
+        "pops": "08_middle_east.txt"
+    },
+    "STATE_LURISTAN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_HUDAVENDIGAR": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_AYDIN": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_KONYA": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_KASTAMONU": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_DIYARBAKIR": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_ADANA": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_TRABZON": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_ERZURUM": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_KARS": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_ANKARA": {
+        "pops": "08_middle_east.txt",
+        "buildings": "08_middle_east.txt"
+    },
+    "STATE_DAGESTAN": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_KUBAN": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_ARMENIA": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_AZERBAIJAN": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_GREATER_CAUCASUS": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_SAMARA": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_KAZAN": {
+        "pops": "09_central_asia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_TARTARIA": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_ASTRAKHAN": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_URALSK": {
+        "pops": "09_central_asia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_AKTOBE": {
+        "pops": "09_central_asia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_SEMIRECHE": {
+        "pops": "09_central_asia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_AKMOLINSK": {
+        "pops": "09_central_asia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_JETISY": {
+        "pops": "09_central_asia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_KHIVA": {
+        "pops": "09_central_asia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_UZBEKIA": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_TAJIKISTAN": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_KIRGHIZIA": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_SYRDARYA": {
+        "pops": "09_central_asia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_MERZ": {
+        "pops": "09_central_asia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_FERGANA": {
+        "pops": "09_central_asia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_TURKMENIA": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_PASHTUNISTAN": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_KANDAHAR": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_KABUL": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_HERAT": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_NORTHERN_BALUCHISTAN": {
+        "pops": "09_central_asia.txt"
+    },
+    "STATE_BALKH": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_QUETTA": {
+        "pops": "09_central_asia.txt"
+    },
+    "STATE_CENTRAL_HIGHLANDS": {
+        "pops": "09_central_asia.txt"
+    },
+    "STATE_BALUCHISTAN": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_LHASA": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_NGARI": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_HIMALAYAS": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_EASTERN_HIMALAYAS": {
+        "pops": "09_central_asia.txt",
+        "buildings": "09_central_asia.txt"
+    },
+    "STATE_MINSK": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_BIHAR": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_WEST_BENGAL": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_EAST_BENGAL": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_ASSAM": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_DELHI": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_AWADH": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_GUJARAT": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_MALWA": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_KASHMIR": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_PUNJAB": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_CENTRAL_PROVINCES": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_SINDH": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_RAJPUTANA": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_CEYLON": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_INDIAN_OCEAN_TERRITORY": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_ORISSA": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_CIRCARS": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_MYSORE": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_TRAVANCORE": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_MADRAS": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_HYDERABAD": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_BOMBAY": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_KURNOOL": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_BUNDELKHAND": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_AGRA": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_HILL_PUNJAB": {
+        "pops": "10_india.txt",
+        "buildings": "10_india.txt"
+    },
+    "STATE_DZUNGARIA": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_TIANSHAN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SICHUAN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_YUNNAN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_GUIZHOU": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SHAOZHOU": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_ALXA": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_HINGGAN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_GUANGXI": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_BEIJING": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SHENGJING": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SOUTHERN_MANCHURIA": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_NORTHERN_MANCHURIA": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SHANXI": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_NINGXIA": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_GANSU": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_XIAN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_QINGHAI": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_CHONGQING": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_GUANGDONG": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_FUJIAN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_ZHEJIANG": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_JIANGSU": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_NANJING": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_HENAN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_ZHILI": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_JIANGXI": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SOUTHERN_ANHUI": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_NORTHERN_ANHUI": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_WESTERN_HUBEI": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_EASTERN_HUBEI": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_HUNAN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_FORMOSA": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SHANDONG": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SUZHOU": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_ULIASTAI": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_URGA": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_CAMBODIA": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_BANGKOK": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_TONKIN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_ANNAM": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_MEKONG": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_LAOS": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_CHIANG_MAI": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_NAKHON_RATCHASIMA": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_TENASSERIM": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_KACHIN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SHAN_STATES": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_MANDALAY": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_PEGU": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_ARAKAN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SAKHALIN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_HOKKAIDO": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_TOHOKU": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_KANTO": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_CHUBU": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_KANSAI": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_KYUSHU": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_RYUKYU_ISLANDS": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_CHUGOKU": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SHIKOKU": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SEOUL": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_BUSAN": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_YANGHO": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_SARIWON": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_PYONGYANG": {
+        "pops": "11_east_asia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_MALAYA": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_NORTH_BORNEO": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_WEST_BORNEO": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_EAST_BORNEO": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_WEST_JAVA": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_EAST_JAVA": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_CENTRAL_JAVA": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_NORTH_SUMATRA": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_SOUTH_SUMATRA": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_ACEH": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_WESTERN_NEW_GUINEA": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_MOLUCCAS": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_CELEBES": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_EASTERN_NEW_GUINEA": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_SUNDA_ISLANDS": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_MINDANAO": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_LUZON": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_VISAYAS": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_EAST_MICRONESIA": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_WEST_MICRONESIA": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_SOLOMON_ISLANDS": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_NAURU": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_FIJI": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_VANUATU": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_KANAK": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_BOUGAINVILLE": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_TAHITI": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_TONGA": {
+        "pops": "12_indonesia.txt",
+        "buildings": "12_indonesia.txt"
+    },
+    "STATE_NEW_SOUTH_WALES": {
+        "pops": "13_australasia.txt",
+        "buildings": "13_australasia.txt"
+    },
+    "STATE_VICTORIA": {
+        "pops": "13_australasia.txt",
+        "buildings": "13_australasia.txt"
+    },
+    "STATE_TASMANIA": {
+        "pops": "13_australasia.txt",
+        "buildings": "13_australasia.txt"
+    },
+    "STATE_QUEENSLAND": {
+        "pops": "13_australasia.txt",
+        "buildings": "13_australasia.txt"
+    },
+    "STATE_SOUTH_AUSTRALIA": {
+        "pops": "13_australasia.txt",
+        "buildings": "13_australasia.txt"
+    },
+    "STATE_WESTERN_AUSTRALIA": {
+        "pops": "13_australasia.txt",
+        "buildings": "13_australasia.txt"
+    },
+    "STATE_NORTHERN_TERRITORY": {
+        "pops": "13_australasia.txt",
+        "buildings": "13_australasia.txt"
+    },
+    "STATE_NORTH_ISLAND": {
+        "pops": "13_australasia.txt",
+        "buildings": "13_australasia.txt"
+    },
+    "STATE_SOUTH_ISLAND": {
+        "pops": "13_australasia.txt",
+        "buildings": "13_australasia.txt"
+    },
+    "STATE_TOMSK": {
+        "pops": "14_siberia.txt",
+        "buildings": "14_siberia.txt"
+    },
+    "STATE_TOBOLSK": {
+        "pops": "14_siberia.txt",
+        "buildings": "14_siberia.txt"
+    },
+    "STATE_TUVA": {
+        "pops": "14_siberia.txt",
+        "buildings": "14_siberia.txt"
+    },
+    "STATE_KRASNOYARSK": {
+        "pops": "14_siberia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_UPPER_YENISEYSK": {
+        "pops": "14_siberia.txt",
+        "buildings": "14_siberia.txt"
+    },
+    "STATE_BURYATIA": {
+        "pops": "14_siberia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_IRKUTSK": {
+        "pops": "14_siberia.txt",
+        "buildings": "14_siberia.txt"
+    },
+    "STATE_OB": {
+        "pops": "14_siberia.txt",
+        "buildings": "14_siberia.txt"
+    },
+    "STATE_SURGUT": {
+        "pops": "14_siberia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_CHUKOTKA": {
+        "pops": "14_siberia.txt",
+        "buildings": "14_siberia.txt"
+    },
+    "STATE_KAMCHATKA": {
+        "pops": "14_siberia.txt",
+        "buildings": "14_siberia.txt"
+    },
+    "STATE_OKHOTSK": {
+        "pops": "14_siberia.txt",
+        "buildings": "14_siberia.txt"
+    },
+    "STATE_YAKUTSK": {
+        "pops": "14_siberia.txt",
+        "buildings": "14_siberia.txt"
+    },
+    "STATE_KOLYMA": {
+        "pops": "14_siberia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_TRANS_BAIKAL": {
+        "pops": "14_siberia.txt",
+        "buildings": "14_siberia.txt"
+    },
+    "STATE_OUTER_MANCHURIA": {
+        "pops": "14_siberia.txt",
+        "buildings": "11_east_asia.txt"
+    },
+    "STATE_AMUR": {
+        "pops": "14_siberia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_VILNIUS": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_COURLAND": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_TARTU": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_TALINN": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_RIGA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_KAUNAS": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_MAZOVIA": {
+        "pops": "15_russia.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_GREATER_POLAND": {
+        "pops": "15_russia.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_LESSER_POLAND": {
+        "pops": "15_russia.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_UUSIMAA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_WEST_KARELIA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_ALAND": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_OSTROBOTHNIA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_OULU": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_KUOPIO": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_KOLA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_EAST_KARELIA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_NENETSIA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_ARKHANGELSK": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_GALICH": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_BREST": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_MOGILEV": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_VITEBSK": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_VOLHYNIA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_KIEV": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_CRIMEA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_KHARKOV": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_CHERSON": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_CHERNIHIV": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_TAURIDA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_BESSARABIA": {
+        "pops": "15_russia.txt",
+        "buildings": "02_east_europe.txt"
+    },
+    "STATE_NORTH_CAUCASUS": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_ELIZAVETPOL": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_STAVROPOL": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_KALMYKIA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_PSKOV": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_YAROSLAVL": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_RYAZAN": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_TAMBOV": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_NIZHNY_NOVGOROD": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_CHUVASHIA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_VYATKA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_UFA": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_CHELYABINSK": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    },
+    "STATE_URAL": {
+        "pops": "15_russia.txt",
+        "buildings": "14_siberia.txt"
+    },
+    "STATE_ALTAI": {
+        "pops": "15_russia.txt",
+        "buildings": "15_russia.txt"
+    }
+}
