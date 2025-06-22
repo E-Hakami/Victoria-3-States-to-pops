@@ -52,23 +52,64 @@ def build_state_index():
     print(f"Indexed {len(index)} states.")
     return index
 
+def extract_state_blocks(content):
+    """Extract all full s:STATE_XXXX={...} blocks using brace counting."""
+    state_blocks = {}
+    pos = 0
+    while True:
+        match = re.search(r's:(STATE_[A-Z0-9_]+)\s*=\s*{', content[pos:])
+        if not match:
+            break
+
+        state_name = match.group(1)
+        start_idx = pos + match.start()
+        brace_count = 0
+        i = pos + match.end()  # Start just after the opening brace
+
+        while i < len(content):
+            if content[i] == "{":
+                brace_count += 1
+            elif content[i] == "}":
+                brace_count -= 1
+                if brace_count < 0:
+                    # Reached the closing brace of the state block
+                    end_idx = i + 1
+                    block = content[start_idx:end_idx]
+                    state_blocks[state_name] = (start_idx, end_idx, block)
+                    pos = end_idx
+                    break
+            i += 1
+        else:
+            break  # Avoid infinite loop on malformed files
+
+    return state_blocks
+
 def swap_ownership_in_file(input_path, output_path, state_name, new_owner):
     with open(input_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    pattern = rf'(s:{re.escape(state_name)}\s*=\s*{{\s*?)region_state:([A-Z]+)(\s*=)'
+    # Extract all state blocks with position
+    blocks = extract_state_blocks(content)
 
-    updated, count = re.subn(
-        pattern,
-        lambda m: f"{m.group(1)}region_state:{new_owner}{m.group(3)}",
-        content,
-        flags=re.DOTALL,
-    )
+    if state_name not in blocks:
+        return
 
-    if count > 0:
-        with open(output_path, "w", encoding="utf-8") as f:
-            f.write(updated)
-        print(f"{state_name}: changed region_state to {new_owner} in {os.path.basename(output_path)}")
+    start_idx, end_idx, block = blocks[state_name]
+
+    # Swap region_state
+    block = re.sub(r'(region_state:)[A-Z]{3}(\s*=)', rf'\1{new_owner}\2', block)
+
+    # Swap all country="c:XYZ" and country = "c:XYZ"
+    block = re.sub(r'(country\s*=\s*["\'])c:[A-Z]{3}(["\'])', rf'\1c:{new_owner}\2', block)
+
+    # Replace block in full content
+    new_content = content[:start_idx] + block + content[end_idx:]
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(new_content)
+
+    print(f"{state_name}: region_state and building owners updated in {os.path.basename(output_path)}")
+
 
 def run_ownership_swap():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
